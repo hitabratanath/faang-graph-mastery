@@ -6,7 +6,7 @@
 
 | Metric | Count | Progress |
 |--------|-------|----------|
-| Total Problems | 110 | 30/110 (27%) |
+| Total Problems | 110 | 31/110 (28%) |
 | Easy | 15 | 0/15 (0%) |
 | Medium | 70 | 0/70 (0%) |
 | Hard | 25 | 0/25 (0%) |
@@ -29,7 +29,7 @@
 | # | Problem | Path | Status |
 |---|---------|------|--------|
 | **Graph Representation (0/7)** |
-| 1 | Find Center of Star Graph | `01-fundamentals/graph-representation/find-center-star-graph/` | ☐ |
+| 1 | Find Center of Star Graph | `01-fundamentals/graph-representation/find-center-star-graph/` | ☑ |
 | 2 | Find if Path Exists | `01-fundamentals/graph-representation/find-path-exists/` | ☑ |
 | 3 | Find the Town Judge | `01-fundamentals/graph-representation/find-town-judge/` | ☑ |
 | 4 | Number of Islands | `01-fundamentals/graph-representation/number-of-islands/` | ☑ |
