@@ -1,12 +1,12 @@
 # Graph Problems Progress Tracker
 
-**Last Updated:** 2025-10-07 | **Target:** FAANG Interview Prep | **Timeline:** 8 weeks
+**Last Updated:** 2025-10-10 | **Target:** FAANG Interview Prep | **Timeline:** 8 weeks
 
 ## Overall Progress
 
 | Metric | Count | Progress |
 |--------|-------|----------|
-| Total Problems | 110 | 15/110 (13%) |
+| Total Problems | 110 | 30/110 (27%) |
 | Easy | 15 | 0/15 (0%) |
 | Medium | 70 | 0/70 (0%) |
 | Hard | 25 | 0/25 (0%) |
@@ -30,12 +30,12 @@
 |---|---------|------|--------|
 | **Graph Representation (0/7)** |
 | 1 | Find Center of Star Graph | `01-fundamentals/graph-representation/find-center-star-graph/` | ☐ |
-| 2 | Find if Path Exists | `01-fundamentals/graph-representation/find-path-exists/` | ☐ |
-| 3 | Find the Town Judge | `01-fundamentals/graph-representation/find-town-judge/` | ☐ |
-| 4 | Number of Islands | `01-fundamentals/graph-representation/number-of-islands/` | ☐ |
+| 2 | Find if Path Exists | `01-fundamentals/graph-representation/find-path-exists/` | ☑ |
+| 3 | Find the Town Judge | `01-fundamentals/graph-representation/find-town-judge/` | ☑ |
+| 4 | Number of Islands | `01-fundamentals/graph-representation/number-of-islands/` | ☑ |
 | 5 | Clone Graph | `01-fundamentals/graph-representation/clone-graph/` | ☐ |
-| 6 | Number of Provinces | `01-fundamentals/graph-representation/number-of-provinces/` | ☐ |
-| 7 | Keys and Rooms | `01-fundamentals/graph-representation/keys-and-rooms/` | ☐ |
+| 6 | Number of Provinces | `01-fundamentals/graph-representation/number-of-provinces/` | ☑ |
+| 7 | Keys and Rooms | `01-fundamentals/graph-representation/keys-and-rooms/` | ☑ |
 | **BFS (0/14)** |
 | 8 | Binary Tree Level Order | `01-fundamentals/bfs/binary-tree-level-order/` | ☑ |
 | 9 | Average of Levels | `01-fundamentals/bfs/average-of-levels/` | ☑ |
@@ -52,19 +52,19 @@
 | 20 | Word Ladder II | `01-fundamentals/bfs/word-ladder-ii/` | ☐ |
 | 21 | Minimum Cost Valid Path | `01-fundamentals/bfs/minimum-cost-valid-path/` | ☐ |
 | **DFS (0/13)** |
-| 22 | Max Area of Island | `01-fundamentals/dfs/max-area-island/` | ☐ |
+| 22 | Max Area of Island | `01-fundamentals/dfs/max-area-island/` | ☑ |
 | 23 | Island Perimeter | `01-fundamentals/dfs/island-perimeter/` | ☑ |
 | 24 | Employee Importance | `01-fundamentals/dfs/employee-importance/` | ☑ |
-| 25 | Pacific Atlantic Water Flow | `01-fundamentals/dfs/pacific-atlantic-water-flow/` | ☐ |
-| 26 | Surrounded Regions | `01-fundamentals/dfs/surrounded-regions/` | ☐ |
-| 27 | Number of Enclaves | `01-fundamentals/dfs/number-of-enclaves/` | ☐ |
-| 28 | Number Closed Islands | `01-fundamentals/dfs/number-closed-islands/` | ☐ |
-| 29 | Time Inform Employees | `01-fundamentals/dfs/time-inform-employees/` | ☐ |
+| 25 | Pacific Atlantic Water Flow | `01-fundamentals/dfs/pacific-atlantic-water-flow/` | ☑ |
+| 26 | Surrounded Regions | `01-fundamentals/dfs/surrounded-regions/` | ☑ |
+| 27 | Number of Enclaves | `01-fundamentals/dfs/number-of-enclaves/` | ☑ |
+| 28 | Number Closed Islands | `01-fundamentals/dfs/number-closed-islands/` | ☑ |
+| 29 | Time Inform Employees | `01-fundamentals/dfs/time-inform-employees/` | ☑ |
 | 30 | Count Sub Islands | `01-fundamentals/dfs/count-sub-islands/` | ☑ |
-| 31 | All Paths Source Target | `01-fundamentals/dfs/all-paths-source-target/` | ☐ |
-| 32 | Path Sum II | `01-fundamentals/dfs/path-sum-ii/` | ☐ |
-| 33 | Making Large Island | `01-fundamentals/dfs/making-large-island/` | ☐ |
-| 34 | Number Distinct Islands | `01-fundamentals/dfs/number-distinct-islands/` | ☐ |
+| 31 | All Paths Source Target | `01-fundamentals/dfs/all-paths-source-target/` | ☑ |
+| 32 | Path Sum II | `01-fundamentals/dfs/path-sum-ii/` | ☑ |
+| 33 | Making Large Island | `01-fundamentals/dfs/making-large-island/` | ☑ |
+| 34 | Number Distinct Islands | `01-fundamentals/dfs/number-distinct-islands/` | ☑ |
 
 ### 02-Cycle & Topological Sort (0/13)
 
