@@ -1,12 +1,12 @@
 # Graph Problems Progress Tracker
 
-**Last Updated:** 2025-10-10 | **Target:** FAANG Interview Prep | **Timeline:** 8 weeks
+**Last Updated:** 2025-10-11 | **Target:** FAANG Interview Prep | **Timeline:** 8 weeks
 
 ## Overall Progress
 
 | Metric | Count | Progress |
 |--------|-------|----------|
-| Total Problems | 110 | 31/110 (28%) |
+| Total Problems | 110 | 32/110 (29%) |
 | Easy | 15 | 0/15 (0%) |
 | Medium | 70 | 0/70 (0%) |
 | Hard | 25 | 0/25 (0%) |
@@ -33,7 +33,7 @@
 | 2 | Find if Path Exists | `01-fundamentals/graph-representation/find-path-exists/` | ☑ |
 | 3 | Find the Town Judge | `01-fundamentals/graph-representation/find-town-judge/` | ☑ |
 | 4 | Number of Islands | `01-fundamentals/graph-representation/number-of-islands/` | ☑ |
-| 5 | Clone Graph | `01-fundamentals/graph-representation/clone-graph/` | ☐ |
+| 5 | Clone Graph | `01-fundamentals/graph-representation/clone-graph/` | ☑ |
 | 6 | Number of Provinces | `01-fundamentals/graph-representation/number-of-provinces/` | ☑ |
 | 7 | Keys and Rooms | `01-fundamentals/graph-representation/keys-and-rooms/` | ☑ |
 | **BFS (0/14)** |
